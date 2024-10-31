@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Pagelog\n"
+"POT-Creation-Date: 2016-07-11 16:12+0200\n"
+"PO-Revision-Date: 2016-07-11 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: pagelog.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: pagelog.php:40
+msgid "PageLog"
+msgstr "PaginaLog"
+
+#: pagelog.php:40
+msgid "Page Log"
+msgstr "Pagina Log"
+
+#: pagelog.php:197
+msgid "Page Log statistics"
+msgstr "Pagina Log statistiek"
+
+#: pagelog.php:200
+msgid "at:"
+msgstr "om:"
+
+#: pagelog.php:214
+msgid "Exclude ip(s):"
+msgstr "Uitgezonderd ip(s):"
+
+#: pagelog.php:216
+msgid "Display period:"
+msgstr "Weergave periode:"
+
+#: pagelog.php:218 pagelog.php:227
+msgid "Forever"
+msgstr "Altijd"
+
+#: pagelog.php:219 pagelog.php:228
+msgid "Last hour"
+msgstr "Laatste uur"
+
+#: pagelog.php:220 pagelog.php:229
+msgid "Last day"
+msgstr "Laatste dag"
+
+#: pagelog.php:221 pagelog.php:230
+msgid "Last week"
+msgstr "Laatste week"
+
+#: pagelog.php:222 pagelog.php:231
+msgid "Last month"
+msgstr "Laatste maand"
+
+#: pagelog.php:223 pagelog.php:232
+msgid "Last year"
+msgstr "Laatste jaar"
+
+#: pagelog.php:225
+msgid "Save period:"
+msgstr "Bewaar periode:"
+
+#: pagelog.php:238
+msgid "By page name"
+msgstr "Op pagina"
+
+#: pagelog.php:239
+msgid "By Permalink"
+msgstr "Op permalink"
+
+#: pagelog.php:240
+msgid "Most recent"
+msgstr "Meest recent"
+
+#: pagelog.php:241
+msgid "By user"
+msgstr "Op bezoeker"
+
+#: pagelog.php:242
+msgid "By IP"
+msgstr "Op IP"
+
+#: pagelog.php:331
+msgid ""
+"There are no posts/pages with the required shortcode [pagelog] in the text"
+msgstr ""
+"Er zijn geen berichten/pagina's met de vereiste shortcode [pagelog] in de "
+"tekst"
+
+#: pagelog.php:444 pagelog.php:515 pagelog.php:596 pagelog.php:649
+#: pagelog.php:718
+msgid "Page"
+msgstr "Pagina"
+
+#: pagelog.php:447 pagelog.php:518
+msgid "Total"
+msgstr "Totaal"
+
+#: pagelog.php:450 pagelog.php:521
+msgid "Users"
+msgstr "Gebruikers"
+
+#: pagelog.php:494 pagelog.php:565
+msgid "Logged out:"
+msgstr "Uitgelogd:"
+
+#: pagelog.php:593
+msgid "Date / Time"
+msgstr "Datum / tijd"
+
+#: pagelog.php:599 pagelog.php:646
+msgid "User"
+msgstr "Gebruiker"
+
+#: pagelog.php:602
+msgid "IP"
+msgstr "IP"
+
+#: pagelog.php:652 pagelog.php:721
+msgid "Count"
+msgstr "Aantal"
+
+#: pagelog.php:715
+msgid "IP (logged out)"
+msgstr "IP (uitgelogd)"
+
+#: pagelog.php:781
+msgid "This display type is disabled"
+msgstr "Dit weergave type is uitgeschakeld"
+
+#. Plugin Name of the plugin/theme
+msgid "Pagelog"
+msgstr "Pagelog"
+
+#. Description of the plugin/theme
+msgid "Registers all pageloads"
+msgstr "Registreerd alle pageloads"
+
+#. Author of the plugin/theme
+msgid "opajaap"
+msgstr "opajaap"
